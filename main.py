@@ -92,7 +92,7 @@ def get_post_then_format_according_to_user(postID: int):
     return data
 
 ############################################################################################################
-##      PUT YOUR LAB ACTIVITY 4 ANSWER BELOW
+##      PUT YOUR LAB ACTIVITY 3 ANSWER BELOW
 ##      - Create a new API that has the following specs:
 ##              Endpoint: /detailed_post/{userID}
 ##              Method: GET
